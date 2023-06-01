@@ -1,0 +1,15 @@
+{
+  "statusCode": 200,
+  "message": "success",
+  "data":  {
+    "id": 1,
+    "contractNumber": "SMS-A-B-C-000000",
+    "expireDate": "17/11/2022",
+    "type": 1,
+    "address" :"KSA, Riyadh, AL Arid",
+    "contractAmount" :149,
+    "paymentIcon" :"",
+    "rate": 0,
+    "reasons": []
+  }
+}

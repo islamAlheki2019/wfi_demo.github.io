@@ -1,0 +1,172 @@
+{
+  "colors": {
+    "light_mode": {
+      "app_bar": {
+        "appbarBackground": "#FFFFFF"
+      },
+      "primary_and_scaffold": {
+        "primaryColor": "#2BAAB7",
+        "secondaryColor": "#2BAAB7",
+        "scaffoldBackgroundColor": "#FFFFFF",
+        "darkModeYellow": "#0C6094"
+      },
+      "divider": {
+        "dividerColor": "#BABCC0"
+      },
+
+      "fonts": {
+        "fontWhiteColor": "#FFFFFF",
+        "fontTurquoiseColor": "#2BAAB7",
+        "fontLightTurquoiseColor": "#2BAAB7",
+        "fontNavyColor": "#00437F",
+        "fontNavy2Color": "#0C6094",
+        "fontBlackColor": "#032333",
+        "fontGrey1Color": "#B4B4B4",
+        "fontGrey2Color": "#F2F2F2",
+        "fontGrey3Color": "#585E60",
+        "fontRedColor": "#FF6969",
+        "fontCustomWhiteColor": "#FFFFFF"
+      },
+      "card_background": {
+        "cardBlueColor": "#00acee",
+        "cardWhiteColor": "#FFFFFF",
+        "cardTurquoiseColor": "#2BAAB7",
+        "cardLightTurquoiseColor": "#2BAAB7",
+        "cardNavyColor": "#00437F",
+        "cardNavy2Color": "#0C6094",
+        "cardBlackColor": "#032333",
+        "cardGrey1Color": "#BABCC0",
+        "cardGrey2Color": "#F2F2F2",
+        "cardGrey3Color": "#585E60",
+        "cardRedColor": "#FF6969",
+        "cardCustomWhiteColor": "#FFFFFF"
+
+      },
+      "buttons": {
+        "buttonWhiteColor": "#FFFFFF",
+        "buttonTurquoiseColor": "#2BAAB7",
+        "buttonLightTurquoiseColor": "#2BAAB7",
+        "buttonNavyColor": "#00437F",
+        "buttonNavy2Color": "#0C6094",
+        "buttonBlackColor": "#032333",
+        "buttonGrey1Color": "#BABCC0",
+        "buttonGrey2Color": "#F2F2F2",
+        "buttonGrey3Color": "#585E60",
+        "buttonRedColor": "#FF6969",
+        "buttonCustomWhiteColor": "#FFFFFF"
+
+      },
+      "icons": {
+        "iconWhiteColor": "#FFFFFF",
+        "iconTurquoiseColor": "#2BAAB7",
+        "iconLightTurquoiseColor": "#2BAAB7",
+        "iconNavyColor": "#00437F",
+        "iconNavy2Color": "#0C6094",
+        "iconBlackColor": "#032333",
+        "iconGrey1Color": "#BABCC0",
+        "iconGrey2Color": "#F2F2F2",
+        "iconGrey3Color": "#585E60",
+        "iconRedColor": "#FF6969",
+        "iconCustomWhiteColor": "#FFFFFF"
+      },
+      "loading": {
+        "loadingWhiteColor": "#FFFFFF",
+        "loadingTurquoiseColor": "#2BAAB7",
+        "loadingLightTurquoiseColor": "#2BAAB7",
+        "loadingNavyColor": "#00437F",
+        "loadingNavy2Color": "#0C6094",
+        "loadingBlackColor": "#032333",
+        "loadingGrey1Color": "#BABCC0",
+        "loadingGrey2Color": "#F2F2F2",
+        "loadingGrey3Color": "#585E60",
+        "loadingRedColor": "#FF6969",
+        "loadingCustomWhiteColor": "#FFFFFF"
+
+      }
+    },
+    "dark_mode": {
+      "app_bar": {
+        "appbarBackground": "#072E41"
+      },
+      "primary_and_scaffold": {
+        "primaryColor": "#2BAAB7",
+        "secondaryColor": "#2BAAB7",
+        "scaffoldBackgroundColor": "#072E41",
+        "darkModeYellow": "#EEDA99"
+      },
+      "divider": {
+        "dividerColor": "#0C6094"
+      },
+
+      "fonts": {
+        "fontWhiteColor": "#12384D",
+        "fontTurquoiseColor": "#2BAAB7",
+        "fontLightTurquoiseColor": "#2BAAB7",
+        "fontNavyColor": "#00437F",
+        "fontNavy2Color": "#74C1C9",
+        "fontBlackColor": "#FFFFFF",
+        "fontGrey1Color": "#FFFFFF",
+        "fontGrey2Color": "#F2F2F2",
+        "fontGrey3Color": "#FFFFFF",
+        "fontRedColor": "#FF6969",
+        "fontCustomWhiteColor": "#FFFFFF"
+      },
+      "card_background": {
+        "cardBlueColor": "#00acee",
+        "cardWhiteColor": "#12384D",
+        "cardTurquoiseColor": "#2BAAB7",
+        "cardLightTurquoiseColor": "#2BAAB7",
+        "cardNavyColor": "#00437F",
+        "cardNavy2Color": "#74C1C9",
+        "cardBlackColor": "#032333",
+        "cardGrey1Color": "#2BAAB7",
+        "cardGrey2Color": "#F2F2F2",
+        "cardGrey3Color": "#2BAAB7",
+        "cardRedColor": "#FF6969",
+        "cardCustomWhiteColor": "#FFFFFF"
+
+      },
+      "buttons": {
+        "buttonWhiteColor": "#12384D",
+        "buttonTurquoiseColor": "#2BAAB7",
+        "buttonLightTurquoiseColor": "#2BAAB7",
+        "buttonNavyColor": "#00437F",
+        "buttonNavy2Color": "#74C1C9",
+        "buttonBlackColor": "#FFFFFF",
+        "buttonGrey1Color": "#FFFFFF",
+        "buttonGrey2Color": "#F2F2F2",
+        "buttonGrey3Color": "#FFFFFF",
+        "buttonRedColor": "#FF6969",
+        "buttonCustomWhiteColor": "#FFFFFF"
+
+      },
+      "icons": {
+        "iconWhiteColor": "#12384D",
+        "iconTurquoiseColor": "#2BAAB7",
+        "iconLightTurquoiseColor": "#2BAAB7",
+        "iconNavyColor": "#74C1C9",
+        "iconNavy2Color": "#74C1C9",
+        "iconBlackColor": "#FFFFFF",
+        "iconGrey1Color": "#FFFFFF",
+        "iconGrey2Color": "#74C1C9",
+        "iconGrey3Color": "#FFFFFF",
+        "iconRedColor": "#FF6969",
+        "iconCustomWhiteColor": "#FFFFFF"
+      },
+      "loading": {
+        "loadingWhiteColor": "#12384D",
+        "loadingTurquoiseColor": "#2BAAB7",
+        "loadingLightTurquoiseColor": "#2BAAB7",
+        "loadingNavyColor": "#00437F",
+        "loadingNavy2Color": "#74C1C9",
+        "loadingBlackColor": "#FFFFFF",
+        "loadingGrey1Color": "#FFFFFF",
+        "loadingGrey2Color": "#F2F2F2",
+        "loadingGrey3Color": "#FFFFFF",
+        "loadingRedColor": "#FF6969",
+        "loadingCustomWhiteColor": "#FFFFFF"
+
+      }
+    }
+  }
+}
