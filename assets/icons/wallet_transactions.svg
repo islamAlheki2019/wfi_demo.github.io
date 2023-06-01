@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="23.702" height="22.009" viewBox="0 0 23.702 22.009">
+  <g id="Group_9631" data-name="Group 9631" transform="translate(-295.779 -875.508)">
+    <g id="wallet-svgrepo-com_2_" data-name="wallet-svgrepo-com (2)" transform="translate(295.779 875.508)">
+      <g id="Group_9606" data-name="Group 9606" transform="translate(0 0)">
+        <path id="Path_12265" data-name="Path 12265" d="M65.412,103.125H52.545v1.129H65.412a1.7,1.7,0,0,1,1.693,1.693v2.272a2.792,2.792,0,0,0-1.693-.579H47.353a1.693,1.693,0,0,1,0-3.386h6.208v-1.129H47.353a2.825,2.825,0,0,0-2.822,2.822v16.366a2.825,2.825,0,0,0,2.822,2.822H65.412a2.825,2.825,0,0,0,2.822-2.822V105.947A2.825,2.825,0,0,0,65.412,103.125ZM67.1,119.491H60.332a2.822,2.822,0,1,1,0-5.643H67.1Zm0-6.772H60.332a3.95,3.95,0,1,0,0,7.9H67.1v1.693a1.7,1.7,0,0,1-1.693,1.693H47.353a1.7,1.7,0,0,1-1.693-1.693V108.2a2.807,2.807,0,0,0,1.693.565H65.411a1.7,1.7,0,0,1,1.693,1.693Z" transform="translate(-44.531 -103.125)" fill="#0c6094"/>
+        <path id="Path_12267" data-name="Path 12267" d="M161.719,203.7a2.138,2.138,0,1,0,2.138-2.138A2.141,2.141,0,0,0,161.719,203.7Zm2.85,0a.713.713,0,1,1-.713-.713A.713.713,0,0,1,164.569,203.7Z" transform="translate(-148.228 -190.277)" fill="#0c6094"/>
+      </g>
+    </g>
+    <line id="Line_14" data-name="Line 14" x2="17.777" transform="translate(298.742 877.869)" fill="none" stroke="#1e1e1e" stroke-linecap="round" stroke-width="0.5"/>
+    <line id="Line_15" data-name="Line 15" x2="17.777" transform="translate(298.742 879.054)" fill="none" stroke="#1e1e1e" stroke-linecap="round" stroke-width="0.5"/>
+  </g>
+</svg>
